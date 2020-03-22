@@ -3,7 +3,7 @@ layout:     post
 title:      Hello，World!
 subtitle:  我的第一篇Github博客
 date:       2020-03-22
-author:    刘敏轩
+author:    liuminxuan
 header-img: img/post-bg-article.jpg
 catalog: true
 tags:
